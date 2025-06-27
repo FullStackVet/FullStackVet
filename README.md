@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FullStackVet
-- 👀 I’m interested in Full-Stack Programming jobs of all sizes!
+- 👀 I’m interested in full stack dev jobs of all sizes and types!
 - 🌱 I’m currently advancing Flutter/Dart skills and deepening AI implementation of all kinds
 - 📫 How to reach me: see my profile. Email and all socials are provided. Website coming soon!
-- ⚡ Fun fact: Canadian Forces Veteran turned Full-Stack programmer
+- ⚡ Fun fact: Canadian Forces Veteran turned full stack developer.
 
 <!---
 FullStackVet/FullStackVet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
